@@ -1,0 +1,22 @@
+{
+  "site": {
+    "lang": "en",
+    "title": "E-Surplus",
+    "titleDelim": "",
+    "description": "",
+    "keywords": "html template, theme, freebie, opensource"
+  },
+  "modules": {
+    "googleFonts": "https://fonts.googleapis.com/css?family=Roboto+Slab",
+    "bodyJs": false,
+    "headJs": false,
+    "customCss": true,
+    "noscriptCss": false,
+    "twitterCard": false,
+    "openGraph": false
+  },
+  "links": {
+    "twitterCardCreator": "===twittercard-creator-account===",
+    "twitterCardAccount": "===twittercard-main-account==="
+  }
+}
